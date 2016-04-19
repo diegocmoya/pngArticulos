@@ -1,0 +1,14 @@
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\pngArticulos\bin\Debug\pngArticulos.exe.config
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\pngArticulos\bin\Debug\pngArticulos.exe
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\pngArticulos\bin\Debug\pngArticulos.pdb
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\pngArticulos\obj\Debug\pngArticulos.csprojResolveAssemblyReference.cache
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\pngArticulos\obj\Debug\pngArticulos.frmAcceso.resources
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\pngArticulos\obj\Debug\pngArticulos.Properties.Resources.resources
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\pngArticulos\obj\Debug\pngArticulos.csproj.GenerateResource.Cache
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\pngArticulos\obj\Debug\pngArticulos.exe
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\pngArticulos\obj\Debug\pngArticulos.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2015\Projects\pngArticulos\pngArticulos\bin\Debug\clsConexionSQL.dll
+C:\Users\diego\OneDrive\Documents\Visual Studio 2015\Projects\pngArticulos\pngArticulos\bin\Debug\Controlador.dll
+C:\Users\diego\OneDrive\Documents\Visual Studio 2015\Projects\pngArticulos\pngArticulos\bin\Debug\clsConexionSQL.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2015\Projects\pngArticulos\pngArticulos\bin\Debug\Controlador.pdb
+C:\Users\diego\OneDrive\Documents\Visual Studio 2015\Projects\pngArticulos\pngArticulos\obj\Debug\pngArticulos.mdiMenu.resources

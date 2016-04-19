@@ -1,0 +1,5 @@
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\clsConexionSQL\bin\Debug\clsConexionSQL.dll
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\clsConexionSQL\bin\Debug\clsConexionSQL.pdb
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\clsConexionSQL\obj\Debug\clsConexionSQL.dll
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\clsConexionSQL\obj\Debug\clsConexionSQL.pdb
+c:\users\diego\onedrive\documents\visual studio 2015\Projects\pngArticulos\clsConexionSQL\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
